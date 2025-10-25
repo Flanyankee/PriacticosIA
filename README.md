@@ -6,8 +6,9 @@ Ejercisios de las practicas de Inteligencia Artificial
 ## 🧑‍💻 Integrantes del Grupo
 
 Gribaudo Re Francisco
-Andreani Francisco Manuel
 
+Andreani Francisco Manuel
+---
 ## 🛠️ Tecnologías y Librerías
 
 Para ejecutar este notebook, se utilizaron las siguientes tecnologías principales:
