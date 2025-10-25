@@ -25,8 +25,8 @@ Para ejecutar este notebook, se utilizaron las siguientes tecnologías principal
 
 1.  Clonar el repositorio:
     ```bash
-    git clone 
-    cd 
+    git clone https://github.com/Flanyankee/PriacticosIA.git
+    cd PriacticosIA
     ```
 
 2.  (Recomendado) Crear y activar un entorno virtual:
