@@ -1,4 +1,4 @@
-# PriacticosIA
+# PracticosIA
 Ejercisios de las practicas de Inteligencia Artificial
 
 # 🤖 Entrega Práctica de Inteligencia Artificial
